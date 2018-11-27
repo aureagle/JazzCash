@@ -1,0 +1,13 @@
+{
+    "name": "aureagle/jazzcash",
+    "description": "JazzCash Interaction",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aurangzeb",
+            "email": "aureagle@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
