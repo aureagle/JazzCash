@@ -5,7 +5,7 @@
 [![Latest Stable Version](https://poser.pugx.org/Aureagle/JazzCash/v/stable)](https://packagist.org/packages/aureagle/JazzCash)
 [![License](https://poser.pugx.org/aureagle/JazzCash/license)](https://packagist.org/packages/aureagle/JazzCash)
 
-This is an easy to use package to send push notification.
+This is an easy to use package to interact with jazzcash
 
 #### Payment Methods Available:
 * None
@@ -84,4 +84,4 @@ $jazz->setConfig([
 ]);
 ```
 
-many thanks: https://devdojo.com/tutorials/how-to-create-a-laravel-package
+Acknowledgements: https://www.pastefs.com/pid/84430
