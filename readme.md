@@ -84,4 +84,4 @@ $jazz->setConfig([
 ]);
 ```
 
-
+many thanks: https://devdojo.com/tutorials/how-to-create-a-laravel-package
