@@ -1,18 +1,22 @@
 # PushNotification Package
 
-[![Build Status](https://api.travis-ci.org/Edujugon/PushNotification.svg)](https://api.travis-ci.org/Edujugon/PushNotification)
-[![Total Downloads](https://poser.pugx.org/edujugon/push-notification/downloads)](https://packagist.org/packages/edujugon/push-notification)
-[![Latest Stable Version](https://poser.pugx.org/edujugon/push-notification/v/stable)](https://packagist.org/packages/edujugon/push-notification)
-[![License](https://poser.pugx.org/edujugon/push-notification/license)](https://packagist.org/packages/edujugon/push-notification)
+[![Build Status](https://api.travis-ci.org/Aureagle/JazzCash.svg)](https://api.travis-ci.org/Aureagle/JazzCash)
+[![Total Downloads](https://poser.pugx.org/aureagle/JazzCash/downloads)](https://packagist.org/packages/aureagle/JazzCash)
+[![Latest Stable Version](https://poser.pugx.org/Aureagle/JazzCash/v/stable)](https://packagist.org/packages/aureagle/JazzCash)
+[![License](https://poser.pugx.org/aureagle/JazzCash/license)](https://packagist.org/packages/aureagle/JazzCash)
 
 This is an easy to use package to send push notification.
 
-#### Push Service Providers Available:
+#### Payment Methods Available:
+* None
+* Payment Method Providers coming soon iA.
 
-* GCM
-* FCM
-* APN
-* More Push Service Providers coming soon.
+#### Payment Methods In Progress:
+
+* DD (Internet Banking)
+* OTC (Over the counter)
+* MWALLET (Mobile Wallet)
+* MIGS (card based)
 
 ## Installation
 
